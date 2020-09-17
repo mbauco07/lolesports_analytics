@@ -1,0 +1,7 @@
+This text file will help to understand the figures that compare Sett to the rest of the champions played in Jungle in the LEC.
+Sett has a 57.4 Kill Participation while the league average is 62.8.
+Sett has a 12 Games Played while the league average is 4.29.
+Sett has a 50.0 Win Percentage while the league average is 55.14.
+Sett has a 232 Damage Per Minute while the league average is 318.93.
+Sett has a 15.6 Percent of the team gold share while the league average is 18.03.
+Sett has a 11.3 Percent of team's damage while the league average is 16.11.
